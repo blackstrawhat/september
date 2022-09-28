@@ -1,14 +1,14 @@
 #EXTM3U
 //LIVE
 //TV NASIONAL Update 
-#EXTINF:-1 group-title="TV NASIONAL", AGUSTUS 2022
+#EXTINF:-1 group-title="TV NASIONAL", UPDATE SEPT 2022
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI+
+https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans 7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans 7
@@ -68,9 +68,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="TV NASIONAL",NET TV
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",
-
-NASIONAL
+#EXTINF:-1 group-title="TV NASIONAL",TVRI NASIONAL
 https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
@@ -254,8 +252,10 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 
 // ANAK
-#EXTINF:-1 group-title="TV ANAK",Indikids
-http://iptvid.my.id/kuy/indikids.m3u8?by=iptv_id
+#EXTINF:-1 group-title="TV ANAK",HORE
+https://live-production.secureswiftcontent.com/exp=1664373051~acl=/hls-p/ingest_6397_*/*~hmac=ec26dfe50488969fb9ca200262ef7a58eab369a3f7ecd7df3cb1b024b55a1156/hls-p/ingest_6397_480p/index.m3u8
+#EXTINF:-1 group-title="TV ANAK",HIP HIP HORE
+https://live-production.secureswiftcontent.com/exp=1664373029~acl=/hls-p/ingest_7052_*/*~hmac=14e4c47e4f99ed0185533126b74f28484e2d6e24e68ae3b8acf758d048e01c74/hls-p/ingest_7052_480p/index.m3u8
 #EXTINF:-1 group-title="TV ANAK",SpaceToons
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="TV ANAK",ToonMax
@@ -267,8 +267,11 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/nickjr.png" group-title="TV ANAK",Nick Junior
-http://rec2.distv.net:80/aurora/123456/176
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/nickjr.png" group-title="TV ANAK",Nick Junior
+https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/miaomi.png" group-title="TV ANAK",Miao Mi
@@ -279,6 +282,10 @@ https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pbs_kids_us.png" group-title="TV ANAK",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="TV ANAK",IndiKids
+https://cdn08jtedge.useetv.com/dashdvr/132/indikids/manifest.mpd
 
 //Knowledge
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -393,8 +400,6 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 //TV SPORT LOKAL
 #EXTINF:-1 group-title="SPORTS LOKAL", TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="SPORTS LOKAL", TVRI Sport
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
@@ -441,14 +446,16 @@ http://iptvid.my.id/hmm/useetl1.m3u8
 http://iptvid.my.id/hmm/useetl2.m3u8
 
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 1
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/1290288029.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1664373059~acl=/hls-p/ingest_6685_*/*~hmac=d82c416b5f547071ddc247e140d7595d99de28a40512f45d1caadf82efbece73/hls-p/ingest_6685_480p/index.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 1
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
-
+https://etslive-2-vidio-com.akamaized.net/exp=1664373065~acl=/hls-b/ingest_6686_*/*~hmac=48fdf072af49ee9b45deb170b3c9f27c8950696e91ffcbbf053c6706a399c2a9/hls-b/ingest_6686_720p/index.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/670227815.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1664373079~acl=/hls-p/ingest_6786_*/*~hmac=f262dcffc976308f3e921fcf6f22a463645d7a04838616ec3791d564ecec50a3/hls-p/ingest_6786_720p/index.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 4
+#EXTINF:-1 group-title="SPORTS LOKAL", MOJI TV
+https://etslive-2-vidio-com.akamaized.net/exp=1664373142~acl=/hls-p/ingest_206_*/*~hmac=72354c129c0adafc68ed5ccc3de4be835a3875139b6f5b4d17d7a8fc47f5eae3/hls-p/ingest_206_480p/index.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL",LFCTV
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/2097920435.m3u8
 //BEIN
@@ -466,12 +473,21 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:-1 group-title="BEIN",BEIN SPORTS XTRA n
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_5.m3u8
 
 //SPORT LUAR
+#EXTINF:-1 group-title="SPORT",EGG NETWORK
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:-1 group-title="SPORT",Super Sport DSTV
+https://lshstream.xyz/hls/allsportsicu01/index.m3u8
+#EXTINF:-1 group-title="SPORT",SUPER SPORT INDIA
+http://37.49.224.162:8081/live/ch2/chunks.m3u8
 #EXTINF:-1 group-title="SPORT",EDGE SPORT
 https://edgesports-plex.amagi.tv/playlistR288p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="SPORT",Fight Sport
 http://rr1.dens.tv/h/h05/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/36/2c/df/362cdf027667b94febe879732352ec3b.png" group-title="SPORT", FIGHT SPORT
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/fightsport.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports 2
@@ -486,49 +502,22 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="SPORT",RTM Sport
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 group-title="SPORT",REDBULL SPORT
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 group-title="SPORT",REDBULL TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:-1 group-title="SPORT",MOTORVISION
 http://rr.dens.tv/h/h09/01.m3u8
-#EXTINF:-1 group-title="SPORT", TV2 Sport1
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 group-title="ASTRO SPORT",EGG NETWORK
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="SPORT",SONY TEN1
-http://dangguli.live:8080/SonyTen1/index.m3u8
-#EXTINF:-1 group-title="SPORT",SONY TEN2
-http://dangguli.live:8080/SonyTen2/index.m3u8
-#EXTINF:-1 group-title="SPORT",SONY TEN3
-http://dangguli.live:8080/SonyTen3/index.m3u8
-#EXTINF:-1 group-title="SPORT",SONY SIX SD
-http://watchindia.net:8880/live/73352/40942/2144.m3u8
-#EXTINF:-1 group-title="SPORT",SONY SIX
-http://dangguli.live:8080/SonySix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT",STAR SPORTS 1
-http://watchindia.net:8880/live/73352/40942/808.m3u8
 #EXTINF:-1 group-title="SPORT",TSPORT
 http://dangguli.live:8080/TSports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT",SUPER SPORT
-http://208.86.19.13:81/725.stream/index.m3u8
+
 #EXTINF:-1 group-title="SPORT",UFC Stadium
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/36/2c/df/362cdf027667b94febe879732352ec3b.png" group-title="SPORT", UFC
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/fightsport.m3u8
-
-#EXTINF:-1 group-title="SPORT",ThaiSport1
-https://smart-tv.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",Now Sports Prime 630 chiser
-http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 group-title="SPORT", TV2 Sport1
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 group-title="SPORT",Now Sports Prime 630
 http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 group-title="SPORT",Red Bull TV (Sports) (USA)
-http://i.mjh.nz/nz/tv.redbull.tv.m3u8
+
+
 
 // AR SPORT
 #EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="AR SPORT",ABU DHABI SPORTS 1
