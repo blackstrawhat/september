@@ -1,7 +1,7 @@
 #EXTM3U
 //LIVE
 //TV NASIONAL Update 
-#EXTINF:-1 group-title="TV NASIONAL", AGUSTUS 2022
+#EXTINF:-1 group-title="TV NASIONAL", SEPT 2022
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -254,8 +254,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 
 // ANAK
-#EXTINF:-1 group-title="TV ANAK",Indikids
-http://iptvid.my.id/kuy/indikids.m3u8?by=iptv_id
+#EXTINF:-1 group-title="TV ANAK",HORE
+https://live-production.secureswiftcontent.com/exp=1664373051~acl=/hls-p/ingest_6397_*/*~hmac=ec26dfe50488969fb9ca200262ef7a58eab369a3f7ecd7df3cb1b024b55a1156/hls-p/ingest_6397_480p/index.m3u8
 #EXTINF:-1 group-title="TV ANAK",SpaceToons
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="TV ANAK",ToonMax
