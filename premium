@@ -347,6 +347,7 @@ http://tv.zonanime.my.id/vidio/ochannel.m3u8
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 1
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
