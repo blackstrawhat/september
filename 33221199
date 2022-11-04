@@ -1,8 +1,21 @@
 #EXTM3U
 //LIVE
 //TV NASIONAL Update 
-#EXTINF:-1 group-title="UPDATE",NOVEMBER
+#EXTINF:-1 group-title="UPDATE",MAINTENANCE
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
+
+#EXTINF:-1 group-title="LOKAL",RCTI+
+#EXTVLCOPT:http-referrer=http://m.rctiplus.com
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+#EXTINF:-1 group-title="LOKAL",MNC+
+#EXTVLCOPT:http-referrer=http://m.rctiplus.com
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+#EXTINF:-1 group-title="LOKAL",GTV+
+#EXTVLCOPT:http-referrer=http://m.rctiplus.com
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+#EXTINF:-1 group-title="LOKAL",INEWS
+#EXTVLCOPT:http-referrer=http://m.rctiplus.com
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
