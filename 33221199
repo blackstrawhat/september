@@ -1,7 +1,5 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",ENG vs IRAK
-https://live5.thetavideoapi.com/hls/live/2015866/hls_streamer_us_central_0011/stream_4z2btq5qrfb7errkfe47k5gx4_source/chunklist.m3u8
 //TV NASIONAL Update 
 #EXTINF:-1 group-title="UPDATE",11 NOVEMBER
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
