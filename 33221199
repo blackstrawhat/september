@@ -3,7 +3,7 @@
 //TV NASIONAL Update 
 #EXTINF:-1 group-title="UPDATE", EXP FEB 2023
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",UPDATE 27 NOVEMBER
+#EXTINF:-1 group-title="TV NASIONAL",UPDATE 3 DESEMBER
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",RCTI+
 #EXTVLCOPT:http-referrer=http://m.rctiplus.com
@@ -416,6 +416,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="TV ANAK",IndiKids
 https://cdn08jtedge.useetv.com/dashdvr/132/indikids/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="TV ANAK",IndiKids
+https://cdn11jtedge.indihometv.com/joss/130/indikids/chunklist_w462702939_b494100_sleng.m3u8?enc=0VXtOx7ZPkRY6MnjJEEDZg&uid=&exp=1669632542
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -653,15 +655,11 @@ https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://www.useetv.com/pimages/tvposter/useeSport.png",USEESPORT 2
 
 #EXTINF:-1 group-title="SPORTS LOKAL", Moji Tv
-http://tv.zonanime.my.id/vidio/ochannel.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 1
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3
-http://tv.zonanime.my.id/vidio/championstv3.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 4
 #EXTINF:-1 group-title="SPORTS LOKAL", MOJI TV
 #EXTINF:-1 group-title="SPORTS LOKAL",LFCTV
@@ -684,6 +682,30 @@ https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZA3baOp2pYl_wmKBFlvZxXerrZxQFmw_AmA&usqp=CAU", Bein English 1
+https://webudi.openhd.lol/lb/premium61/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png", Bein English 2
+https://webudi.openhd.lol/lb/premium90/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png", Bein English 3
+https://webudi.openhd.lol/lb/premium46/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+
+
+
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN", Bein Sports Premium 1
+https://m3u-editor.com/serve/997d6540-6efb-11ed-b2a9-1dca78615499/701050983
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN", Bein Sports Premium 2
+https://m3u-editor.com/serve/997d6540-6efb-11ed-b2a9-1dca78615499/701050984
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN", Bein Sports Premium 3
+https://m3u-editor.com/serve/997d6540-6efb-11ed-b2a9-1dca78615499/701050985
 
 #EXTINF:-1 group-title="BEIN",BEIN SPORTS XTRA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
@@ -693,6 +715,24 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_5.m3u8
 
 //SPORT LUAR
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_763999.png", BT SPORT 1
+https://webudi.openhd.lol/lb/premium31/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png", BT SPORT 2
+https://webudi.openhd.lol/lb/premium32/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/BTSPORT_3_BLACK_RGB.png", BT SPORT 3
+https://webudi.openhd.lol/lb/premium33/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="SPORT", DIGI SPORT 1
+https://m3u-editor.com/serve/997d6540-6efb-11ed-b2a9-1dca78615499/701050929
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="SPORT", DIGI SPORT 3
+https://m3u-editor.com/serve/997d6540-6efb-11ed-b2a9-1dca78615499/701050930
 #EXTINF:-1 group-title="SPORT",EGG NETWORK
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="SPORT",Fight Sport
