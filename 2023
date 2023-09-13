@@ -2,9 +2,9 @@
 #EXTM3U
 //LIVE
 //TV NASIONAL Update 
-#EXTINF:-1 group-title="UPDATE", SEPTEMBER 2023 PREMIUM
+#EXTINF:-1 group-title="UPDATE", SEPTEMBER 2024
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",UPDATE 10 SEPTEMBER 2023
+#EXTINF:-1 group-title="TV NASIONAL",UPDATE 13 SEPTEMBER 2023
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",RCTI+
 #EXTVLCOPT:http-referrer=http://m.rctiplus.com
@@ -902,13 +902,13 @@ https://liveaneviadev.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
 #EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://www.useetv.com/pimages/tvposter/useeSport.png",USEESPORT 1
-
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880727
 #EXTINF: -1 tvg-name="UsseSport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="SPORTS LOKAL", UseeSport 1
-
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298577
 #EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://www.useetv.com/pimages/tvposter/useeSport.png",USEESPORT 2
-
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298578
 #EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="SPORTS LOKAL", UseeSport 2
-
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="SPORTS LOKAL",Fight Sport Dens
 http://210.210.155.37/dr9445/h/h05/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1330,6 +1330,3 @@ http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
 http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
 #EXTINF:-1  tvg-id="Sakti.id" group-title="TV DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png",SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
-
-
-
